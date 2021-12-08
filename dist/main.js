@@ -1,0 +1,1 @@
+(()=>{"use strict";const e="Hello, World!!!";window.addTextToParagraph=function(n){document.getElementById("paragraph-1").innerHTML=n||e}})();
